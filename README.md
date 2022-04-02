@@ -1,6 +1,9 @@
 # Retro_Dodge
-simple game made by unity. <br>
-from "레트로의 유니티 게임 프로그래밍 에센스"
+Dodge the 🔫!!! <br>
+from <a href="http://www.yes24.com/Product/Goods/69320872">레트로의 유니티 게임 프로그래밍 에센스</a>
+
+## version
+Unity 2021.2
 
 ## In game play
 <img src="img/playing.png" width="60%"></img>
