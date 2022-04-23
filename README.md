@@ -9,3 +9,7 @@ Unity 2021.2
 ## In game play
 <img src="img/playing.png" width="60%"></img>
 <img src="img/end.png" width="60%"></img>
+
+## How to play?
+
+move with WASD
